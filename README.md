@@ -4,3 +4,4 @@
 
 - 💻 Developer & Content Creator
 - 🔨 Co-Founder, CTO and Software Developer at [Wavibly](https://wavibly.com?ref=github-profile-dm)
+- 👤 [LinkedIn](https://www.linkedin.com/in/david-meyer-5a7a15169/)
