@@ -1,6 +1,6 @@
 ### Dave Meyer
 
-![Dave Meyer](/dave-meyer_bg_v2.jpg)
+![Dave Meyer](/dave-meyer_bg_v3.webp)
 
 - 💻 Developer & Content Creator
 - 🔨 Co-Founder, CTO and Software Developer at [Wavibly](https://wavibly.com?ref=github-profile-dm)
