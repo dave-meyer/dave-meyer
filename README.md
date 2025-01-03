@@ -2,7 +2,7 @@
 
 ![Dave Meyer](/dave-meyer_bg_v3.webp)
 
-- 💻 Developer & Content Creator
+- 💻 Developer & Creator
 - 🔨 Co-Founder, CTO and Software Developer at [Wavibly](https://wavibly.com?ref=github-profile-dm)
 - 🔨 Co-Creator of [BookNook.cc](https://booknook.cc?ref=github-profile-dm)
 - 🧑‍💻 Software Developer at [World Direct](https://www.world-direct.at/)
